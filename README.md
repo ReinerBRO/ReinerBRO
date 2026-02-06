@@ -6,7 +6,7 @@
 
 ## Links
 
-- 🏆 [![LeetCode Stats](https://leetcode-badge.haozibi.dev/v1cn/chart/ama2ing-poincarenyz.svg)](https://leetcode.cn/u/ama2ing-poincarenyz/)
+- 🏆 [![LeetCode Stats](https://leetcard.jacoblin.cool/ama2ing-poincarenyz?theme=light&font=Noto%20Sans&site=cn)](https://leetcode.cn/u/ama2ing-poincarenyz/)
 
 
 
