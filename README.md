@@ -2,11 +2,12 @@
 
 🎓 Student at [**HKUST(GZ)**](https://www.hkust-gz.edu.cn/)
 
-📫 Contact: jzhu997@connect.hkust-gz.edu
+📫 Contact: jzhu997@connect.hkust-gz.edu.cn
 
 ## Links
 
 - 🏆 [LeetCode - rikka0612](https://leetcode.cn/u/ama2ing-poincarenyz/)
+
 
 
 
