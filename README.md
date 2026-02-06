@@ -1,4 +1,4 @@
-# Hi, I'm h1sYu1 👋
+# Hi, I'm rikka0612 👋
 
 🎓 Student at **HKUST(GZ)**
 
@@ -7,3 +7,4 @@
 ## Links
 
 - 🏆 [LeetCode - rikka0612](https://leetcode.cn/u/ama2ing-poincarenyz/)
+
