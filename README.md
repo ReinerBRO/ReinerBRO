@@ -6,7 +6,7 @@
 
 ## Links
 
-- 🏆 [LeetCode - rikka0612](https://leetcode.cn/u/ama2ing-poincarenyz/)
+- 🏆 [![LeetCode Stats](https://leetcode-badge.haozibi.dev/v1cn/chart/ama2ing-poincarenyz.svg)](https://leetcode.cn/u/ama2ing-poincarenyz/)
 
 
 
