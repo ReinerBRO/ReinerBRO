@@ -4,18 +4,12 @@
 
 📫 Contact: jzhu997@connect.hkust-gz.edu.cn
 
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReinerBRO&show_icons=true&theme=default&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinerBRO&layout=compact&theme=default)
+
 ## Links
 
 - 🏆 [![LeetCode Stats](https://leetcard.jacoblin.cool/ama2ing-poincarenyz?theme=light&font=Noto%20Sans&site=cn)](https://leetcode.cn/u/ama2ing-poincarenyz/)
-
-
-
-
-
-<!-- Updated: 2026-03-01 12:32 -->
-<!-- Updated: 2026-03-04 16:05:57 -->
-<!-- Updated: 2026-03-04 16:06:06 -->
-<!-- Updated: 2026-03-04 16:06:13 -->
-<!-- Updated: 2026-03-05 20:34:37 -->
-<!-- Updated: 2026-03-05 20:34:49 -->
-<!-- Updated: 2026-03-05 20:34:56 -->
