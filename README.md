@@ -6,6 +6,8 @@
 
 ## Stats
 
+⭐ **Total Stars: 49**
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReinerBRO&show_icons=true&theme=default&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinerBRO&layout=compact&theme=default)
